@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Jacobo Osorio Gonzáles</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
 
-<!--
-**jacooso/jacooso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacooso&label=Profile %20views&color=0e75b6&style=flat" alt="jacooso" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https:/ /instagram.com/jaco.bo30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/instagram.svg" alt="jaco.bo30" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Idiomas y herramientas:</ h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </ p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacooso&show_icons=true&locale=en&layout=compact" alt="jacooso" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacooso&show_icons=true&locale=en" alt="jacooso" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacooso&" alt="jacooso" /></p >
